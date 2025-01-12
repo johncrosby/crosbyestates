@@ -1,0 +1,13 @@
+# Environment files
+.env
+.env.*
+.envrc
+*.env
+venv/
+env/
+ENV/
+*.venv
+
+# Django/Wagtail-specific
+*.log
+db.sqlite3
